@@ -1,0 +1,31 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": false,
+    "footerInfo": "<a href=\"https://www.fanqidi.com\" target=\"_blank\">大愚乌托邦</a>",
+    "postPageSize": 12,
+    "postPath": "post",
+    "postUrlFormat": "SHORT_ID",
+    "showFeatureImage": true,
+    "siteDescription": "无处可去，当个观众",
+    "siteName": "大愚乌托邦",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "bitcron-pro"
+  },
+  "customConfig": {
+    "Santa": false,
+    "Spring": false,
+    "envelope": "fqd511@163.com",
+    "ga": "UA-175001867-1",
+    "github": "https://github.com/fqd511",
+    "rss": "",
+    "telegram": "https://t.me/fanqidi",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}
