@@ -7,15 +7,15 @@
     "platform": "github",
     "privateKey": "",
     "repository": "fqd511.github.io",
-    "token": "89ece35e0af8cbff5b1fa81911e08ad3e9e9edf9",
+    "token": "1a94d5c046ba4b92fe754ed1b933d6c7bd91b3b2",
     "username": "fqd511"
   },
   "comment": {
-    "commentPlatform": "gitalk",
+    "commentPlatform": "disqus",
     "disqusSetting": {
       "api": "",
-      "apikey": "",
-      "shortname": ""
+      "apikey": "vdCvDSoWxt5KJRQ4pwgAyqdJAl5CVxbSx8t3ytzmBrrWmoNel4gfW3G15AQoioX0",
+      "shortname": "fanqidi"
     },
     "gitalkSetting": {
       "clientId": "",
@@ -23,6 +23,6 @@
       "owner": "",
       "repository": ""
     },
-    "showComment": false
+    "showComment": true
   }
 }
