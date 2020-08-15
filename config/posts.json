@@ -43,7 +43,7 @@
           "Gridea"
         ],
         "published": true,
-        "hideInList": false,
+        "hideInList": true,
         "feature": "/post-images/hello-gridea.png",
         "isTop": false
       },
